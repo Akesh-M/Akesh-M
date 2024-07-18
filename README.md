@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akesh-M
-- 👀 I’m interested in Machine learning and Robotics
-- 🌱 I’m currently doing my 4th year of Btech in EEE at NIT Trichy,India
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently working as a Data scientist at Ola
 - 📫 Reach me at akeshm2509@gmail.com
 
 <!---
